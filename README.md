@@ -21,10 +21,8 @@ Developed by: v.sanjay
 RegisterNumber: 212223230188  
 */
 ```
-
-## Output:
 ```
-import pandas as pd
+from sklearn.linear_model import LinearRegressionimport pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, mean_squared_error
@@ -38,7 +36,6 @@ print(Y)
 from sklearn.model_selection import train_test_split
 X_train,X_test,Y_train,Y_test=train_test_split(X,Y,test_size=1/3,random_state=0)
 
-from sklearn.linear_model import LinearRegression
 regressor=LinearRegression()
 regressor.fit(X_train,Y_train)
 Y_pred=regressor.predict(X_test)
@@ -64,7 +61,16 @@ print("MAE = ",mae)
 rmse=np.sqrt(mse)
 print("RMSE : ",rmse)
 ```
+
+## Output:
+```
+## TRAINING DATASET GRAPH:
+```
 ![Screenshot 2024-02-23 100336](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/e5c7310b-d3a0-48e3-9ebe-ff81fb1ff2da)
+```
+## TEST DATASET GRAPH: 
+
+
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/de48431c-ba38-4006-a613-356e01cfc407)
 
