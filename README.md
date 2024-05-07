@@ -17,9 +17,9 @@ Step6: Predict the regression for marks by using the representation of the graph
 Step7: Compare the graphs and hence we obtained the linear regression for the given datas.    
 Step8: Stop the program     
 ## Program:
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: v.sanjay
-RegisterNumber: 212223230188    
+Program to implement the simple linear regression model for predicting the marks scored.    
+Developed by: v.sanjay    
+RegisterNumber: 212223230188        
 
 from sklearn.linear_model import LinearRegressionimport pandas as pd    
 import numpy as np    
