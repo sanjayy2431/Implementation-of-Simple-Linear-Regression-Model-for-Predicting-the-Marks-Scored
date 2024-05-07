@@ -67,4 +67,4 @@ print("RMSE : ",rmse)
   ## VALUES OF MSE,MAE,RMSE:
   ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/f9e789d0-8dec-4253-80e0-3a2d74d458ee)
   ## Result:
-       Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+ Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
