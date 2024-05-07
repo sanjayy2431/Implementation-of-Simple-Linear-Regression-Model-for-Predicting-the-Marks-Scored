@@ -27,11 +27,7 @@ Developed by: v.sanjay
 RegisterNumber: 212223230188                                                                                                                                        
                                                                                                                                                                     
                                                                                                                                                                     
-                                           
-
-
-
- 
+             
 from sklearn.linear_model import LinearRegressionimport pandas as pd    
 import numpy as np    
 import matplotlib.pyplot as plt    
@@ -69,8 +65,13 @@ print("MAE = ",mae)
 rmse=np.sqrt(mse)    
 print("RMSE : ",rmse)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
                                                                                                                                                                           
+
                                                                                                                                                                   
-## Output:                
+                                                                                                                                                                  
+                                                                                                                                                                  
+                                                                                                                                                                           
+## Output:                                                                                                                                                          
+                             
 ![Screenshot 2024-02-23 100336](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/e5c7310b-d3a0-48e3-9ebe-ff81fb1ff2da)
 ## TRAINING DATASET GRAPH:
  ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/de48431c-ba38-4006-a613-356e01cfc407)
