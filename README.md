@@ -56,21 +56,15 @@ print("MSE = ",mse)
 mae=mean_absolute_error(Y_test,Y_pred)    
 print("MAE = ",mae)    
 rmse=np.sqrt(mse)    
-print("RMSE : ",rmse)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-
-
-
-
-
-
-
-  ## Output:      
-![Screenshot 2024-02-23 100336](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/e5c7310b-d3a0-48e3-9ebe-ff81fb1ff2da)
-## TRAINING DATASET GRAPH:
-![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/de48431c-ba38-4006-a613-356e01cfc407)
-## TEST DATASET GRAPH: 
-![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/1043dca9-cb56-4162-b0b6-19d1ee34ef88)
-## VALUES OF MSE,MAE,RMSE:
-![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/f9e789d0-8dec-4253-80e0-3a2d74d458ee)
-## Result:
-Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+print("RMSE : ",rmse)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                          
+  ## Output:                
+  ![Screenshot 2024-02-23 100336](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/e5c7310b-d3a0-48e3-9ebe-ff81fb1ff2da)
+  ## TRAINING DATASET GRAPH:
+  ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/de48431c-ba38-4006-a613-356e01cfc407)
+  ## TEST DATASET GRAPH: 
+  ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/1043dca9-cb56-4162-b0b6-19d1ee34ef88)
+  ## VALUES OF MSE,MAE,RMSE:
+  ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/f9e789d0-8dec-4253-80e0-3a2d74d458ee)
+  ## Result:
+       Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
