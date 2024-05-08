@@ -79,11 +79,31 @@ print("RMSE : ",rmse)
 
 ## TEST DATASET GRAPH: 
  ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/1043dca9-cb56-4162-b0b6-19d1ee34ef88)
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
 ## VALUES OF MSE,MAE,RMSE:
 ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/f9e789d0-8dec-4253-80e0-3a2d74d458ee)                 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Result:
  Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
