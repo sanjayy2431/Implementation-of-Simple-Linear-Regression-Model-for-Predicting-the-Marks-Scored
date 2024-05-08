@@ -69,7 +69,8 @@ print("RMSE : ",rmse)
 
 
 ## TRAINING DATASET GRAPH:
- ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/de48431c-ba38-4006-a613-356e01cfc407)
+![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/971025e6-e1a0-4976-951e-e94a1cea6a63)
+
 ## TEST DATASET GRAPH: 
  ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/1043dca9-cb56-4162-b0b6-19d1ee34ef88)
 ## VALUES OF MSE,MAE,RMSE:
