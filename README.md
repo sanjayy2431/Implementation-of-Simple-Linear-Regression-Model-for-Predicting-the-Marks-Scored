@@ -67,9 +67,11 @@ print("RMSE : ",rmse)
 ## Output:
 ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/25ebac35-7d9f-4891-b1e6-bd6b25b922f0)
 
+<br>
 
 ## TRAINING DATASET GRAPH:
-![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/971025e6-e1a0-4976-951e-e94a1cea6a63)
+![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/139036d6-8878-42d7-a9b5-b7d84953bd25)
+)
 
 ## TEST DATASET GRAPH: 
  ![image](https://github.com/sanjayy2431/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/149365143/1043dca9-cb56-4162-b0b6-19d1ee34ef88)
